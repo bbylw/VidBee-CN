@@ -20,6 +20,9 @@
   </p>
 </div>
 
+> [!NOTE]
+> 本项目汉化自 [https://github.com/nexmoe/VidBee](https://github.com/nexmoe/VidBee)
+
 VidBee 是一款现代化的开源视频下载器，支持从全球 1000+ 网站下载视频和音频。基于 Electron 构建，由 yt-dlp 驱动，VidBee 提供简洁直观的界面和强大的功能，满足您的各种下载需求，包括 RSS 自动下载功能，可自动订阅订阅源并在后台自动下载您喜爱的创作者的新视频。
 
 ## 👋🏻 快速开始
